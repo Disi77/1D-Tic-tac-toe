@@ -6,4 +6,11 @@ Python Game created as study project for Pyladies course "Python for Beginners" 
 
 Includes test_piskvorky.py with unit tests (using library pytest).
 
+## Run Game
+
+Run file **hra.py**.
+
+
+## Tests
+
 If you want run tests, you have to install virtual environment and inside download and install pytest library `pip install pytest`. You can run test via `pytest -v`.
